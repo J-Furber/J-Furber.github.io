@@ -3,6 +3,8 @@ layout: page
 title: Blog
 ---
 
+<a href="/archive-date.html">Sort by date</a>
+
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
