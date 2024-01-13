@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trip to Woodchester Park
-tags: My Work
+tags: 'My Work'
 ---
 
 ## Trip to Woodchester Park
