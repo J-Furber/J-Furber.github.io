@@ -1,4 +1,4 @@
-## Berlin (Part 1): Workshop on Stochastic modeling of complex social systems
+## Berlin Part 1: Workshop on Stochastic modeling of complex social systems
 
 What an adventure I have had over two weeks, so it seems only fair to talk about each aspect separately: the workshop, summer school and my adventures in Berlin. So, the first post of three is dedicated to [Workshop 3: Stochastic Modelling of Complex Social Systems](https://mathplus.de/topic-development-lab/tes-summer-2022/). The aim of the workshop was to provide an overview of stochastic modelling approaches for understanding complex social systems, such as agent-based modelling (ABM), network modelling and hybrid modelling approaches for multi-scale systems. 
 
