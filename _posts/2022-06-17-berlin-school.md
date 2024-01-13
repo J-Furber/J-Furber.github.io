@@ -1,3 +1,9 @@
+---
+layout: post
+title: Berlin Part 2
+tags: Conference
+---
+
 ## Berlin Part 2: Summer School
 
 Part two of three is focused on the seven day summer school based on the [Mathematics of Complex Social Systems](https://mathplus.de/topic-development-lab/tes-summer-2022/summer-school/). This is the highlight and the main event for the trip to Berlin, something I am grateful for being a part of as it was competitive to get into.
