@@ -1,3 +1,9 @@
+---
+layout: post
+title: Berlin Part 3
+tags: Other
+---
+
 ## Berlin Part 3: My Adventures
 
 Finally, this post is all about my adventures, as you wouldn’t go to a new country and not explore! I have never visited Germany before but I had certainly learnt about its history, including the history of the German Democratic Republic (GDR), or East Germany after the war as many might know it as. Either way, I knew I wanted to visit Berlin for its history alone. 
