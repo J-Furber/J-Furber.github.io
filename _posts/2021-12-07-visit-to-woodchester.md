@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Trip to Woodchester Park
+title: Trip to Woodchester Park
 tags: My Work
 ---
 
