@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This site is following my PhD Journey.
 
-Maybe say a some things about yourself.
+I have started to write this in my third year!
 
-Or maybe what you plan to blog about.
+The site will include presentations I have done and conferences I have attended.
