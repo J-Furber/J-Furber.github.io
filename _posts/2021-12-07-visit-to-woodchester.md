@@ -1,4 +1,10 @@
-# Trip to Woodchester Park
+---
+layout: post
+title:Trip to Woodchester Park
+tags: My Work
+---
+
+## Trip to Woodchester Park
 
 Where would I be if I am doing a PhD on badgers and didn’t actually go and see some? 
 
