@@ -1,7 +1,3 @@
----
-layout: page
-title: Presentations
----
 
 This site is following my PhD Journey.
 
