@@ -1,3 +1,9 @@
+---
+layout: post
+title: Confirmation Viva
+tags: Work
+---
+
 ## Confirmation Viva ... Smashed it!
 
 The long wait between submitting my confirmation report and completing the viva is now over. I did not think I would be so nervous, but I was feeling it on the day. Everyone was reassuring me that I would be fine and no doubt in that I could do it.
