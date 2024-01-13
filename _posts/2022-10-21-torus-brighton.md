@@ -1,3 +1,9 @@
+---
+layout: post
+title: Update
+tags: Conference
+---
+
 ## Update on Presentations - Brighton and ToRUS
 
 It has been a while since I have updated you all on any presentations that I have done, but time seems to be going fast, and I have been focusing on getting my Confirmation completed (good news - I passed)! There have been two events that I have been too lately to present to my peers.
