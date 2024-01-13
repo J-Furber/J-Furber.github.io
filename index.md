@@ -1,3 +1,8 @@
+---
+layout: page
+title: Presentations
+---
+
 This site is following my PhD Journey.
 
 I have started to write this in my third year!
