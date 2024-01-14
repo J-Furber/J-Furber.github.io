@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: Life Update - June 2023
+tags: Other
+---
 
 ## Life Update - June 2023
 
