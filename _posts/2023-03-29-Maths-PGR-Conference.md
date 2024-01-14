@@ -1,3 +1,9 @@
+---
+layout: post
+title: University of Surrey’s First PGR Mathematics Conference
+tags: Conference
+---
+
 ## University of Surrey’s First PGR Mathematics Conference
 
 I have been to a few conferences in my first year, and now it was my time to be on the organising committee for one. It was decided amongst the PGRs that we wanted a day conference to talk about our work to other members of staff within the department and our peers. Hence, a day event dedicated just to this.
