@@ -10,11 +10,11 @@ I have done a few presentations across my time as a PhD, in the form of a lightn
 - 16th January - Oral Presentation at the Mathematics & Physics PGR Conference at the University of Surrey. _This is an internal, school event (increased from just the department), to allow the PGRs in the mathematics and physics departments to showcase their work. I was on the organising comittee for the event._
 
 ### 2023
-- 26th March - Poster Presentation at the Maths PGR Conference at the University of Surrey. _This is an internal, departmental event, to allow the PGRs in the mathematics department to showcase their work. I was on the organising comittee for the event._
+- 26th March - [Poster Presentation](https://jfurber.github.io/Maths-PGR-Conference-2023/) at the Maths PGR Conference at the University of Surrey. _This is an internal, departmental event, to allow the PGRs in the mathematics department to showcase their work. I was on the organising comittee for the event._
 - 1st June - Oral Presentation at the National Student Chapter Conference in Oxford
 - 27th June - Oral Presentation for PGR peers
 - 3rd July - Oral Presentation on 'Studying a Mathematics Degree at University' at an applicant day for the University of Surrey
-- 18th July - 5-minute lightning talk at the [summer school on mathematics of movement](https://www.newton.ac.uk/event/mmvw01/) at the Issac Newton Institute (Cambridge) and poster presentation
+- 18th July - 5-minute lightning talk at the [summer school on mathematics of movement](https://www.newton.ac.uk/event/mmvw01/) at the Issac Newton Institute (Cambridge) and [poster presentation](https://jfurber.github.io/INI-Animal-Movement-SSchool/)
 - August - **_Invited_** to the Isaac Newton Institute to particpate in the programme the [Mathematics of Movement (MMV)](https://www.newton.ac.uk/event/mmv/).
 - 27th November - Oral Presentation to third year biomedical students in the module 'Environment and Sustainability'
 - 1st December - Oral Presentation at the Taste of Research for Undergraduate Students (ToRUS). _ToRUS is an interal seminar series promoting the work by PGR's to undergraduate students_
