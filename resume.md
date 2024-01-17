@@ -33,7 +33,7 @@ Extended Project Qualification (A*), General Studies (C), History(A), Mathematic
 ### GCSE's, Sir John Talbot's School, Whitchurch, Shropshire, UK, August 2015
 9 GCSEs grade A*-B including Mathematics (A*) and English (B)
  
-
+ ---
 ## Computer Skills
 
 - Mathematical Typesetting LaTeX
@@ -41,6 +41,7 @@ Extended Project Qualification (A*), General Studies (C), History(A), Mathematic
 - Statistical packages MATLAB, R, and Jamovi
 - Knowledge of Python
 
+ ---
 ## Volunteering
 
 #### Private Mathematics Tutor, Guildford, Aug 2022 - Present
@@ -54,6 +55,7 @@ Extended Project Qualification (A*), General Studies (C), History(A), Mathematic
 
 #### Assistant Leader, 1st Prees Brownies, Prees, Sept 2012- Sept 2017
 
+ ---
 ## Experience 
 
 #### Maths and Statistics Advice Tutor, University of Surrey, January 2022 - Present
