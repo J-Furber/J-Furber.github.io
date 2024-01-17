@@ -15,6 +15,7 @@ I have done a few presentations across my time as a PhD, in the form of a lightn
 - 27th June - Oral Presentation for PGR peers
 - 3rd July - Oral Presentation on 'Studying a Mathematics Degree at University' at an applicant day for the University of Surrey
 - 18th July - 5-minute lightning talk at the [summer school on mathematics of movement](https://www.newton.ac.uk/event/mmvw01/) at the Issac Newton Institute (Cambridge) and poster presentation
+- August - **_Invited_** to the Isaac Newton Institute to particpate in the programme the [Mathematics of Movement (MMV)](https://www.newton.ac.uk/event/mmv/).
 - 27th November - Oral Presentation to third year biomedical students in the module 'Environment and Sustainability'
 - 1st December - Oral Presentation at the Taste of Research for Undergraduate Students (ToRUS). _ToRUS is an interal seminar series promoting the work by PGR's to undergraduate students_
 
