@@ -21,10 +21,13 @@ Below are some recent presentations of my research, along with a list of academi
 
 ## Recent Presentations
 
-- 
-- Invited to the Isaac Newton Institute to particpate in the programme the Mathematics of Movement (MMV) (08/2023).
-- Summer School on the Mathematics of Movement (MMV), Isaac Newton Institute (07/2023).
+- 18th July 2023 - 5-minute lightning talk at the [summer school on mathematics of movement](https://www.newton.ac.uk/event/mmvw01/) at the Issac Newton Institute (Cambridge) and poster presentation
+- August 2023 - **_Invited_** to the Isaac Newton Institute to particpate in the programme the [Mathematics of Movement (MMV)](https://www.newton.ac.uk/event/mmv/).
+- 27th November 2023 - Oral Presentation to third year biomedical students in the module 'Environment and Sustainability'
+- 1st December 2023 - Oral Presentation at the Taste of Research for Undergraduate Students (ToRUS). _ToRUS is an interal seminar series promoting the work by PGR's to undergraduate students_
+- 16th January 2024 - Oral Presentation at the Mathematics & Physics PGR Conference at the University of Surrey. _This is an internal, school event (increased from just the department), to allow the PGRs in the mathematics and physics departments to showcase their work. I was on the organising comittee for the event._
 
 ## Awards
 
 - 2022 Best PGR
+- Small Grant from the IMA in 2022 to attend Workshop and Summer School in Berlin
