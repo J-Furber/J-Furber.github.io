@@ -19,8 +19,9 @@ Further details about some of my current work are available to read [here](/asse
 
 Below are some recent presentations of my research, along with a list of academic and funding awards that I have recieved.
 
-## Presentations
+## Recent Presentations
 
+- 
 - Invited to the Isaac Newton Institute to particpate in the programme the Mathematics of Movement (MMV) (08/2023).
 - Summer School on the Mathematics of Movement (MMV), Isaac Newton Institute (07/2023).
 
