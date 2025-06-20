@@ -2,7 +2,7 @@
 layout: page
 ---
 
-This site is following my PhD Journey.
+This site is following my PhD Journey into my time as an early career researcher.
 
 I started to write this in my third year!
 
@@ -14,7 +14,7 @@ I am a PhD student in the School of Mathematics and Physics at the University of
 - Understanding the movement of badgers through a variety of mathematical tools.
 - Have a brief understanding into how this can affect the transmission of bTB. 
 
-Further details about some of my current work are available to read [here](/assets/FURBER_Confirmation_Report.pdf).
+Some details about my PhD work from my Confirmation are available to read [here](/assets/FURBER_Confirmation_Report.pdf).
 
 Below are some recent presentations of my research, along with a list of academic and funding awards that I have recieved.
 
