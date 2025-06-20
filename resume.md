@@ -3,9 +3,15 @@ layout: page
 title: CV
 ---
 
+## Experience 
+
+### Research Fellow, School of Veterinary Medicine, University of Surrey,March 2025 - Present
+Finishing off a paper on Rift Valley Fever virsus and starting work on Lyssavirus in bats.
+
+---
 ## Education 
 
-### Mathematics Research PhD, University of Surrey, 2021 - Present
+### Mathematics Research PhD, University of Surrey, 2021 - 2025
 #### Working Project Title: Using mathematical data analysis to elucidate the ecology of badger dynamics and dispersal patterns.
 Modules completed as part of training: 
 - University of Surrey; Mathematical Biology, Data Science for Dynamical Systems, Mathematical Modelling of Markov Chain Monte Carlo.
@@ -13,8 +19,12 @@ Modules completed as part of training:
   
 Other acomplishments:
 - On the organising commitee for the Maths PGR Conference 2023, an internal departmental conference.
-- PGR Rep in academic year 2023/24
+- PGR Rep in academic year 2023/24.
 - On the organising commitee for the Mathematics and Physics PGR Conference 2024, an internal school conference.
+- On the organising commitee for the Mathematics, Physics, and Space PGR Conference 2025, an internal school conference.
+- PGR of the Year, School Winner 2024.
+- Surrey Students' Union Award for Outstanding Contribution to Postgraduate Experience 2025.
+- University of Surrey 3MT winner, 2025.
 
 ### MSc Mathematics,University of Chester,Distinction, 2020 - 2021
 Modules include: Mathematical Ecology, Partial Differential Equations and Stochastic Calculus, Stochastic Differential Equations and Applications.
@@ -56,13 +66,13 @@ Extended Project Qualification (A*), General Studies (C), History(A), Mathematic
 #### Assistant Leader, 1st Prees Brownies, Prees, Sept 2012- Sept 2017
 
  ---
-## Experience 
+## Part time jobs 
 
-#### Maths and Statistics Advice Tutor, University of Surrey, January 2022 - Present
+#### Maths and Statistics Advice Tutor, University of Surrey, January 2022 - December 2024
 
-#### Demonstator, University of Surrey, September 2021 - Present
+#### Demonstator, University of Surrey, September 2021 - February 2025
 
-#### Retail Assistant, Outdoor and Country Ltd, Chester, Oct 2017-Aug 2021
+#### Retail Assistant, Outdoor and Country Ltd, Chester, October 2017- August 2021
 
 #### Accounts Assistant, Mitchell Charlesworth, Chester, Summer 2019
 
