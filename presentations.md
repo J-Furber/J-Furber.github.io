@@ -5,9 +5,16 @@ title: Presentations
 
 I have done a few presentations across my time as a PhD, in the form of a lightning talk (5-minutes), talk (20-60 minutes), and a poster presentation. Below are the listed presentations.
 
+### 2025
+- 9th April - Oral Presentation for my pre-viva.
+
 ### 2024
 
 - 16th January - Oral Presentation at the Mathematics & Physics PGR Conference at the University of Surrey. _This is an internal, school event (increased from just the department), to allow the PGRs in the mathematics and physics departments to showcase their work. I was on the organising comittee for the event._
+- 14th March - Oral Presentation to my research group (Maths at the Interface (MATI)) in the department.
+- 29th May - Poster Presentation at a conference in Italy (L’Aquila) on the [Stochastic Modelling and Experiments in Ecology and Biology (SMEEB)](https://liphlab.github.io/SMEEB2024/).
+- 29th July - Oral Presentation to my Vet research group (Diseases in Neglected Communities (DNC)).
+- 10th October - Oral Presentation in the seminar series I organised for the PGRs in the School of Mathematics, Physics, and Space.
 
 ### 2023
 - 26th March - [Poster Presentation](https://jfurber.github.io/Maths-PGR-Conference-2023/) at the Maths PGR Conference at the University of Surrey. _This is an internal, departmental event, to allow the PGRs in the mathematics department to showcase their work. I was on the organising comittee for the event._
